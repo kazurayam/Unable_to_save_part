@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>restorePreviousTSuiteResult</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0d68387-53da-4172-86d3-1658d43fdc78</testCaseGuid>
+   <variable>
+      <defaultValue>'1hourAgo'</defaultValue>
+      <description></description>
+      <id>4c656c16-962a-4bac-8132-5a57401d8efc</id>
+      <masked>false</masked>
+      <name>STRATEGY</name>
+   </variable>
+</TestCaseEntity>
