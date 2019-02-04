@@ -3,7 +3,7 @@
 
 ## What is this?
 
-This is a small Katalon Studio project in order to let you reproduce a problem of Katalon Studio. You can get the zip from [Releases] page.
+This is a small Katalon Studio project in order to let you reproduce a problem of Katalon Studio. You can get the zip from [Releases](https://github.com/kazurayam/Unable_to_save_part/releases) page.
  Download the zip, unzip it, open it with your Katalon Studio.
 
  This project was developed using Katalon Studio version 5.10.1 on Windows 7.
